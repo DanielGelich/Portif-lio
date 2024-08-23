@@ -188,8 +188,8 @@ Algoritmos e Procedimentos:
     funcionalidade e preço.
 
 Representação dos Requisitos
-![image](https://github.com/user-attachments/assets/ea001c0b-e7a7-4cf0-877c-32190dddb9ad)
 
+![image](https://github.com/user-attachments/assets/ea001c0b-e7a7-4cf0-877c-32190dddb9ad)
 
 Padrões de Arquitetura
   Arquitetura em Camadas (Layered Architecture):
